@@ -15,7 +15,7 @@ print(num_pizzas)
 #Print the string We sell [num_pizzas] different kinds of pizza!, where [num_pizzas] represents the value of our variable num_pizzas.
 print("We sell ", num_pizzas, "different kinds of pizza!")
 
-#Use the existing data about the pizza toppings and prices to create a new two-dimensional list called pizza_and_prices.
+#Use the existing data about the pizza toppings and prices to create a new two-dimensional list called pizza_and_prices
 pizza_prices = [[2,"pepperoni"],[6,"pineapple"],[1,"cheese"],[3,"sausage"],[2,"olives"],[7,"anchovies"],[2,"mushrooms"]]
 print(pizza_prices)
 
