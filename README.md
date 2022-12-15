@@ -1,3 +1,2 @@
 # Code Academy Python Challenges
-Magic 8 ball game created for a Codeacademy Python challenge.
-Sal's Shipping created for a Codeacademy Python challenge.
+In this repository I have the challenges I completed and lesson notes from the Codeacademy Python 3 course.
